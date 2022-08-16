@@ -86,3 +86,10 @@ the audio features from fMRI and anatomical features. Other is to predict out-of
 **Contributors**: [Sai Kiersarsky](https://github.com/sai-del-cielo), [Artur Paulo](https://github.com/arturjpaulo), [Chrystal Dragonflame](https://github.com/chrystaldragonflame), [Ramon Xulvi-Brunet](https://github.com/raxulbru), [Brent McPherson](https://github.com/bcmcpher), [Luis Fernando Fontoura](https://github.com/lfernandof), [Thiti Premrudeepreechacharn](https://github.com/tpremrud) \
 **Description of project**: Connectome harmonics is a frequency-speciﬁc representation of cortical organization. Here, we study how connectome-harmonics change with age.\
 **How to get involved**: Submit a pull request!
+
+### Experience Sampling Functional Connectivity 
+**Name**: CExperience Sampling Functional Connectivity  \
+**Project url**: [GitHub repp] (https://github.com/jmosley010/expsamp-nh)\
+**Contributors**: [Nicolas Bruno](https://github.com/Nicobruno92), [Jennifer Mosley]()
+**Description of project**: We try to classify experience sampling reports based on functional connectivity dataset. We classify mind-wanderin reports against all other reports.\
+**How to get involved**: Post an issue or submit a PR.
